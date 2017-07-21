@@ -24,7 +24,7 @@ Table of Contents:
 
     sample.py: an example using FaceVerification
 
-Installation: several python wheels are needed: tensorflow, numpy, tensorflow, numpy,dlib, pillow.
+Installation: several python wheels are needed: tensorflow, numpy,dlib, pillow.
 
 Usage: see an example of usage in sample.py
 
